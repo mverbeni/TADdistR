@@ -1,4 +1,4 @@
-Package: TADdist
+Package: TADdistR
 Type: Package
 Title: Annotation of Genetic Signatures Based on Topological Associating Domains
 Version: 0.1.1
@@ -9,7 +9,7 @@ Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 Depends: R (>= 3.5.1)
-License: GPL-3
+License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
 Imports: 
